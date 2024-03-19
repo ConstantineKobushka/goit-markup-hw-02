@@ -16,10 +16,6 @@ ul {
   list-style-type: none;
 }
 
-.header {
-}
-.header-nav {
-}
 .header-nav--logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -31,10 +27,6 @@ ul {
 }
 .header-nav--logo-span {
   color: #2e2f42;
-}
-.header-nav--list {
-}
-.header-nav--list-item {
 }
 .header-nav--list-link {
   font-weight: 500;
@@ -49,10 +41,6 @@ ul {
 }
 .header-contact {
   font-style: normal;
-}
-.header-contact--list {
-}
-.header-contact--item {
 }
 .header-contact--link {
   letter-spacing: 0.02em;
@@ -92,8 +80,6 @@ ul {
   background: #404bbf;
 }
 
-.advantages {
-}
 .advantages-title,
 .team-title,
 .portfolio-title {
@@ -103,10 +89,6 @@ ul {
   text-align: center;
   color: #2e2f42;
   text-transform: capitalize;
-}
-.advantages-list {
-}
-.advantages-list--item {
 }
 .advantages-list--title,
 .team-list--title,
@@ -126,26 +108,9 @@ ul {
 .team {
   background-color: #f4f4fd;
 }
-.team-title {
-}
-.team-list {
-}
 .team-list--item {
   text-align: center;
   background-color: #ffffff;
-}
-.team-list--title {
-}
-
-.portfolio {
-}
-.portfolio-title {
-}
-.portfolio-list {
-}
-.portfolio-list--item {
-}
-.portfolio-list--title {
 }
 
 .footer {
